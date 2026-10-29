@@ -25,8 +25,13 @@
 @Agents.md
 @Docs\AI-Standards\GeneralRules.md
 @Docs\Claude\ClaudeCodeRules.md
-@Docs\Documentaion\Github Issue Rule.md
 @Docs\TechSpec.md
+
+## 스킬 호출
+
+### Github Issue 등록시
+
+- `github-issue` 스킬을 호출해 진행한다. 규칙 문서를 직접 불러오지 않는다.
 
 ## 온디맨드 참조 (매 세션 읽지 않음 - 해당 작업을 할 때만 읽음)
 
